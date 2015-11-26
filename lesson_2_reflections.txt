@@ -8,3 +8,7 @@ organized? How would branches help?
 
 Trying new features. Something experimental. This give peace of mind because you are 
 not modifiyng the main project.
+
+How do the diagrams help you visualize the branch structure?
+
+They help to visualize parent commits also detached HEAD commits
