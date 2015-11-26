@@ -1,0 +1,10 @@
+How can you use the staging area to make sure you have one commit per logical change?
+
+A logical change can involve changes in multiple files. The staging area allows to 
+put all modified files in one place prior to commit them.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Trying new features. Something experimental. This give peace of mind because you are 
+not modifiyng the main project.
