@@ -19,3 +19,15 @@ the diagram the way we do?
 
 The result is one branch with the contricutions of the the two branches. The 
 diagram is made in a way that is easy to see the parent commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+Pros:
+
+• Save time merging automatically when Git does not find any conflict between 
+the two branches.
+
+Cons:
+
+• When the merge is made manually can appear problems if wereare not careful
+enough.
