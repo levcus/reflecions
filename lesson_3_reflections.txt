@@ -24,3 +24,8 @@ BRANCHES:
 It is a division of a commit history. We create a branch when we want to work 
 in a new feature or try something that may not be fully functional without 
 interfering or modifying that particular commit history.
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+That allows to detect and to reduce the number of conflicts in the project.
